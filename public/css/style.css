@@ -1,0 +1,59 @@
+
+* {
+    margin: 0, auto;
+    padding: 0;
+    box-sizing: border-box; 
+} 
+
+h1, p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ /* #carouselExampleCaptions{
+    width: 70%!important;
+    margin-left: 15%!important; 
+}  */
+
+#imazh{
+    height: 80vh!important;
+
+}
+#karriera:hover{
+
+    box-shadow: 10px 10px 10px #968989;
+    
+    height: 80%!important;
+}
+
+#karriera{
+    width: 75%!important;
+    height: 100%!important;
+}
+
+select{
+    width: 350px;
+    height: 50px;
+    background-color: azure;
+    font-family: Georgia, serif;
+}
+
+#butonikerkimit{
+    background-color: azure;
+    width: 100px;
+    height: 50px;
+    font-family: Georgia, serif;
+}
+
+.divet{
+    display: inline-flex;
+    padding: 10px;
+}
+
+#fk {
+    height: 280px!important;
+    width: 20rem!important;
+    padding-left: 5rem;
+}
+
+  
